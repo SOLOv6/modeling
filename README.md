@@ -10,10 +10,21 @@
 - EfficientUnetb4
 - EfficientUnetb7
 ---
-### Install
+### Install Pakages
+wandb
+```
+pip install wandb -qqq
+```
+grad-cam
+```
+pip install grad-cam
+```
+crfseg
+```
+pip install crfseg
+```
 
-
-
+---
 ### How to Run the Code 
 
 
